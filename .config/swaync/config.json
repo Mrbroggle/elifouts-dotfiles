@@ -10,7 +10,7 @@
   "control-center-margin-top": 8,
   "control-center-margin-bottom": 8,
   "control-center-margin-right": 8,
-  "control-center-margin-left": 0,
+  "control-center-margin-left": 8,
   "notification-2fa-action": true,
   "notification-inline-replies": true,
   "notification-window-width": 350,
